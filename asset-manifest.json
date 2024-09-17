@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/MukilArasiG/bankapp.git/static/css/main.1f49129d.css",
-    "main.js": "/MukilArasiG/bankapp.git/static/js/main.d7d467d7.js",
-    "static/js/453.8ab44547.chunk.js": "/MukilArasiG/bankapp.git/static/js/453.8ab44547.chunk.js",
-    "static/media/background.png": "/MukilArasiG/bankapp.git/static/media/background.9c66ea7ae0546957d457.png",
-    "static/media/aboubg.jpg": "/MukilArasiG/bankapp.git/static/media/aboubg.9bfd4ddb4f80d6a50265.jpg",
-    "static/media/saving.jpg": "/MukilArasiG/bankapp.git/static/media/saving.1ab69ccd01163968e06a.jpg",
-    "static/media/experience-img.jpg": "/MukilArasiG/bankapp.git/static/media/experience-img.9258349c66ce337794e7.jpg",
-    "static/media/freelance-img.jpg": "/MukilArasiG/bankapp.git/static/media/freelance-img.715e2b38e146eacee80b.jpg",
-    "index.html": "/MukilArasiG/bankapp.git/index.html",
-    "main.1f49129d.css.map": "/MukilArasiG/bankapp.git/static/css/main.1f49129d.css.map",
-    "main.d7d467d7.js.map": "/MukilArasiG/bankapp.git/static/js/main.d7d467d7.js.map",
-    "453.8ab44547.chunk.js.map": "/MukilArasiG/bankapp.git/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/MukilArasiG/bankapp/static/css/main.8fb61315.css",
+    "main.js": "/MukilArasiG/bankapp/static/js/main.3de45924.js",
+    "static/js/453.8ab44547.chunk.js": "/MukilArasiG/bankapp/static/js/453.8ab44547.chunk.js",
+    "static/media/background.png": "/MukilArasiG/bankapp/static/media/background.9c66ea7ae0546957d457.png",
+    "static/media/aboubg.jpg": "/MukilArasiG/bankapp/static/media/aboubg.9bfd4ddb4f80d6a50265.jpg",
+    "static/media/saving.jpg": "/MukilArasiG/bankapp/static/media/saving.1ab69ccd01163968e06a.jpg",
+    "static/media/experience-img.jpg": "/MukilArasiG/bankapp/static/media/experience-img.9258349c66ce337794e7.jpg",
+    "static/media/freelance-img.jpg": "/MukilArasiG/bankapp/static/media/freelance-img.715e2b38e146eacee80b.jpg",
+    "index.html": "/MukilArasiG/bankapp/index.html",
+    "main.8fb61315.css.map": "/MukilArasiG/bankapp/static/css/main.8fb61315.css.map",
+    "main.3de45924.js.map": "/MukilArasiG/bankapp/static/js/main.3de45924.js.map",
+    "453.8ab44547.chunk.js.map": "/MukilArasiG/bankapp/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f49129d.css",
-    "static/js/main.d7d467d7.js"
+    "static/css/main.8fb61315.css",
+    "static/js/main.3de45924.js"
   ]
 }
