@@ -1,38 +1,39 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
+body {
+  background-image: url('./images/background.png'); /* Update the path to your local image */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-family: 'Academy', serif; /* Change font to Academy or any other serif font */
+  overflow: hidden;
+  margin: 0;
 }
 
-.App-link {
-  color: #61dafb;
+html {
+  overflow: hidden;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Global styles for text */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Academy', serif; /* Ensure all headers use the Academy font */
+}
+
+p {
+  font-family: 'Academy', serif; /* Ensure paragraphs use the Academy font */
+  font-size: 1.2rem; /* Enlarge font size for paragraphs */
+}
+
+label {
+  font-family: 'Academy', serif; /* Ensure labels use the Academy font */
+  font-size: 1.2rem; /* Enlarge font size for labels */
+}
+
+input {
+  font-family: 'Academy', serif; /* Ensure input text uses the Academy font */
+  font-size: 1rem; /* Enlarge font size for input fields */
+}
+
+button {
+  font-family: 'Academy', serif; /* Ensure button text uses the Academy font */
+  font-size: 1rem; /* Enlarge font size for buttons */
 }
